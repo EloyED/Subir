@@ -11,6 +11,6 @@ package com.mycompany.up;
 public class Up {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Heello World!");
     }
 }
